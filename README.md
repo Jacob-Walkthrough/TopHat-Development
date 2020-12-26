@@ -1,7 +1,10 @@
 # Ideas
-**1. Item A
-2. Item B 
-3. Item C**
+**change health hud**
+**change map mod**
+**illegel checkin**
+****
+# Bugs
+**fix MLO's**
 # Planned
 **Table of Contents**
 # In Prgresss
