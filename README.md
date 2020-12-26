@@ -1,5 +1,8 @@
 # Ideas
-**Table of Contents**
+**
+1. Item A
+2. Item B
+3. Item C**
 # Planned
 **Table of Contents**
 # In Prgresss
@@ -9,6 +12,3 @@
 
 ##### [Test]()
 
-1. Item A
-2. Item B
-3. Item C
