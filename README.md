@@ -1,7 +1,6 @@
 # Ideas
-**
-1. Item A
-2. Item B
+**1. Item A
+2. Item B 
 3. Item C**
 # Planned
 **Table of Contents**
